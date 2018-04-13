@@ -30,3 +30,9 @@ Are there any existing dependencies that hinders the decommisioning of the syste
 Are there any existing integrations that hinders the decommisioning of the system?
 
 Make a list and address all items on the list!
+
+
+## Action
+
+Make RFC to enforce decommisioning of systems.
+List all RFCs in VSTS to enable us to follow up on the status
