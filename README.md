@@ -37,3 +37,10 @@ Make a list and address all items on the list!
 Make RFC to enforce decommisioning of systems.
 
 List all RFCs in VSTS to enable us to follow up on the status
+
+## Links
+
+https://its.unl.edu/bestpractices/decommissioning-process-guide
+https://1xn5kw3l5ddw2mwebc4103yc-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/Data-Center-Decommissioning-Checklists-from-Exit-Technologies-v2.pdf
+
+
