@@ -38,6 +38,25 @@ Make RFC to enforce decommisioning of systems.
 
 List all RFCs in VSTS to enable us to follow up on the status
 
+## Steps
+
+### Backup
+
+### Active direcory
+
+### DNS
+
+### Antivirus
+
+### Monitoring
+
+### System Center
+
+### BigFix
+
+### CMDB
+
+
 ## Links
 
 * https://its.unl.edu/bestpractices/decommissioning-process-guide
