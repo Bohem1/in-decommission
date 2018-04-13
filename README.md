@@ -25,9 +25,9 @@ Follow the questions to end up doing the right thing.
 
 ## System
 
-Who is the owner of the system or who is enabled to make the call?
-Are there any existing dependencies that hinders the decommisioning of the system?
-Are there any existing integrations that hinders the decommisioning of the system?
+* Who is the owner of the system or who is enabled to make the call?
+* Are there any existing dependencies that hinders the decommisioning of the system?
+* Are there any existing integrations that hinders the decommisioning of the system?
 
 Make a list and address all items on the list!
 
@@ -35,4 +35,5 @@ Make a list and address all items on the list!
 ## Action
 
 Make RFC to enforce decommisioning of systems.
+
 List all RFCs in VSTS to enable us to follow up on the status
